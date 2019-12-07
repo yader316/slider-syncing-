@@ -1,0 +1,4 @@
+
+control deslizante de sincronización
+
+imagenes abajos deslizandose y ala vez mostrandose arriba la imagen seleccionada abajo
